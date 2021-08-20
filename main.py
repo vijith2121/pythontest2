@@ -8,19 +8,11 @@ for page in range(1,13):
 
 
 print("first Page")
-print(len(l[0]["data"]))
+print("total user : ",len(l[0]["data"]))
 
 print("Second Page")
-print(len(l[1]["data"]))
+print("total user : ",len(l[1]["data"]))
 
-print("Third Page")
-print(len(l[2]["data"]))
-
-print("Fourth Page")
-print(len(l[3]["data"]))
-
-print("Fifth Page")
-print(len(l[4]["data"]))
 
 
 
